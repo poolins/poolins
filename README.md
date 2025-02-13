@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **poolins/poolins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Stat
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poolins&theme=swift" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poolins&theme=swift" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poolins&theme=swift" alt=""/>
+</div>
